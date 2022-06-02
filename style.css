@@ -48,12 +48,17 @@ h4{
 li{
     margin:12px;
     font-size: 1.0rem;
-    line-height: 1.5;
+    line-height: 1.7;
+}
+h3{
+    text-align: center;
+    padding-top: 20px;
 }
 p{
     font-style: italic;
     font-size: 1.0rem;
 }
-p:nth-child(2){
+#comm, p:nth-last-child(1){
+    margin:12px;
     margin-top: 30px !important;
 }
