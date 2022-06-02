@@ -11,15 +11,19 @@ body{
     height: 100%;
     color:#333;
 }
+
 #img-div{
     width:95%;
     margin:auto;
     background: white !important;
-}
-#img-div{
-   height: 60%;
+    margin:auto;
+    height: 60%;
    text-align: center;
-   margin:auto;
+}
+#image{
+   max-width:100%;
+   height: auto;
+   
 }
 h1{
     text-align: center;
