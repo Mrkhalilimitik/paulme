@@ -1,4 +1,55 @@
-body{
+main{
     background: #eee;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+    margin:30px auto;
+    padding:30px 10px 30px 10px;
+    border-radius: 15px solid black;
+    border: none;
+    height: 100%;
+}
+body{
+    height: 100%;
+    color:#333;
+}
+#img-div{
+    width:95%;
+    margin:auto;
+    background: white !important;
+}
+#img-div{
+   height: 60%;
+   text-align: center;
+   margin:auto;
+}
+h1{
+    text-align: center;
+    padding: 25px 0 25px 0;
+    font-size: 3.3rem;
+    line-height: 1.2;
+}
+#img-caption{
+    padding:0 15px 15px 15px;
+}
+h4{
+    line-height: 1.5;
+    color:#333;
+    text-align: center;
+    font-size: 1.4rem;
+    padding-bottom: 20px;
+}
+#tribute-info{
+    max-width: 550px !important;
+    margin:auto;
+}
+li{
+    margin:12px;
+    font-size: 1.0rem;
+    line-height: 1.5;
+}
+p{
+    font-style: italic;
+    font-size: 1.0rem;
+}
+p:nth-child(2){
+    margin-top: 30px !important;
 }
